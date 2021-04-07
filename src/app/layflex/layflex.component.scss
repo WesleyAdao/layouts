@@ -1,0 +1,30 @@
+h1 {
+
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+img {
+
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.container {
+
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.container div {
+
+    flex: 1 1 300px;
+    margin: 10px;
+
+}
